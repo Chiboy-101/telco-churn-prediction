@@ -1,0 +1,7 @@
+```txt
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+pickle-mixin
